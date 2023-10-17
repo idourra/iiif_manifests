@@ -1,0 +1,326 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6fa94661-061e-4230-b7e1-5610e95b7cce",
+	"@type": "sc:Manifest",
+	"label": "Secuencia de imágenes del Capitolio Nacional de Cuba a lo largo de su historia",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Se presenta una selección de imágnes del Capitolio Nacional de Cuba a lo largo de su historia a partir de imágenes IIIF disponibles en varias colecciones del mundo. La colección se ha compuesto usando el editor de manifiestos de la Universidad Blodeliana de Oxford",
+			"@language": "es"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Composición del autor. Cada imágen tiene sus declaaciones de derecho en el contexto de cada colección",
+	"sequences": [
+		{
+			"@id": "http://aba01f52-de7f-44ba-b6ed-ca3ee54d27cd",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://1add158d-cef8-45a8-b728-2a19e986c320",
+					"@type": "sc:Canvas",
+					"label": "El Capitolio de La Habana y el Teatro Nacional",
+					"height": 798,
+					"width": 2258,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e7439e45-5da5-4398-8c12-86f740ad4d8e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000112.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000112.jpg",
+									"profile": "level2"
+								},
+								"height": 798,
+								"width": 2258
+							},
+							"on": "http://1add158d-cef8-45a8-b728-2a19e986c320"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "description",
+							"value": "La imagen muestra los alrededores del Capitolio con el público que asistió a presenciar la toma de posesión a la Presidencia de la República del General Gerardo Machado y Morales, el 20 de mayo de 1929. El negativo original se encuentra en el Fondo MICONS NV.128, No. de Registro de Secretaria de Obras Públicas: 5424 y 9044"
+						}
+					]
+				},
+				{
+					"@id": "http://92f36d45-8547-4a10-94f5-82c0a5540b7c",
+					"@type": "sc:Canvas",
+					"label": "Capitol. Havana",
+					"height": 2172,
+					"width": 3372,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dce3dfe9-fe13-4caa-a929-c0f3ee431762",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/chc0359/4304/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/chc0359/4304",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 2172,
+								"width": 3372
+							},
+							"on": "http://92f36d45-8547-4a10-94f5-82c0a5540b7c"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "format",
+							"value": "Positivo\nPanorámica\nOriginal\nFoto Digital\nB/N\nHorizontal"
+						},
+						{
+							"label": "date",
+							"value": "1951-06-19\n"
+						}
+					]
+				},
+				{
+					"@id": "http://fe3ba6a0-6bf0-4c87-a430-c0fa4c6e4ec1",
+					"@type": "sc:Canvas",
+					"label": "El Capitolio en la década de 1940",
+					"height": 2446,
+					"width": 3649,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5d477d29-5601-49ab-8d18-198ce63c50cf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9834/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9834",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 2446,
+								"width": 3649
+							},
+							"on": "http://fe3ba6a0-6bf0-4c87-a430-c0fa4c6e4ec1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://05fdb67b-f37a-43b7-9b79-7efe5318ca0d",
+					"@type": "sc:Canvas",
+					"label": "Fidel Castro y Camilo Cienfuegos con el Capitolio al fondo",
+					"height": 2329,
+					"width": 3010,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a1ce074a-3db1-4a7f-8d67-35fd1f7dfd0e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10588/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10588",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 2329,
+								"width": 3010
+							},
+							"on": "http://05fdb67b-f37a-43b7-9b79-7efe5318ca0d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://440e24ba-e5f0-4312-a89d-8c87b0235174",
+					"@type": "sc:Canvas",
+					"label": "El Capitolio iluminado durante su inauguración",
+					"height": 4990,
+					"width": 6188,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://219a0901-ef21-4dcc-a50a-15bbef418024",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9955/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9955",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 4990,
+								"width": 6188
+							},
+							"on": "http://440e24ba-e5f0-4312-a89d-8c87b0235174"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://84e7ce7e-6c46-4b83-89d5-09d879e1618e",
+					"@type": "sc:Canvas",
+					"label": "Grasser, Franz: Reisefotos Kuba, 1937/1939. Bauwerk: Kapitol (Capitolio). Beschreibung: Reisefotos Kuba. Havanna. Kapitol (1926; E. R. Piedra)",
+					"height": 1079,
+					"width": 1600,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://98b40573-36ba-42b1-a831-33ee9401079b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.iiif.arthistoricum.net/iiif/2/proxy%2F67%2F67-b2FpOmRldXRzY2hlZm90b3RoZWsuZGU6YTg0NTA6Om9ianw4OTAwMTc0OHxkZl9oYXVwdGthdGFsb2dfMDY3MDE3Mw.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.iiif.arthistoricum.net/iiif/2/proxy%2F67%2F67-b2FpOmRldXRzY2hlZm90b3RoZWsuZGU6YTg0NTA6Om9ianw4OTAwMTc0OHxkZl9oYXVwdGthdGFsb2dfMDY3MDE3Mw.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 1726400,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1079,
+								"width": 1600
+							},
+							"on": "http://84e7ce7e-6c46-4b83-89d5-09d879e1618e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ff0fb457-1d65-4c43-9db0-082e199dfd4d",
+					"@type": "sc:Canvas",
+					"label": "Construction of the Capitol building in Havana, Cuba\n",
+					"height": 4573,
+					"width": 5870,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f7f6e5bc-1c97-455b-a4a5-c714dfc1f63e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10701/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10701",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json"
+									]
+								},
+								"height": 4573,
+								"width": 5870
+							},
+							"on": "http://ff0fb457-1d65-4c43-9db0-082e199dfd4d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8a95b92f-cf87-4f7a-afdd-69e6f4cd6b1f",
+					"@type": "sc:Canvas",
+					"label": "VII Congreso Internacional de Pediatría. Foto de los participantes frente al Capitolio Nacional 1953",
+					"height": 2530,
+					"width": 9876,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3141d8bc-dc0e-4664-b95b-abffe759abbb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000270.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000270.jpg",
+									"profile": "level2"
+								},
+								"height": 2530,
+								"width": 9876
+							},
+							"on": "http://8a95b92f-cf87-4f7a-afdd-69e6f4cd6b1f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
