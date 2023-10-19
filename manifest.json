@@ -1,20 +1,20 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://6fa94661-061e-4230-b7e1-5610e95b7cce",
+	"@id": "http://dee3a280-58fe-49e4-9482-b78a55319f5b",
 	"@type": "sc:Manifest",
-	"label": "Secuencia de imágenes del Capitolio Nacional de Cuba a lo largo de su historia",
+	"label": "Figuras Mundiales. Caricaturas de Walter Conrado Massaguer",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "Se presenta una selección de imágnes del Capitolio Nacional de Cuba a lo largo de su historia a partir de imágenes IIIF disponibles en varias colecciones del mundo. La colección se ha compuesto usando el editor de manifiestos de la Universidad Blodeliana de Oxford",
+			"@value": "Caricaturas publicadas en la sección de Figuras Ilustres de la Revista Pulgarcito",
 			"@language": "es"
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "Composición del autor. Cada imágen tiene sus declaaciones de derecho en el contexto de cada colección",
+	"attribution": "Biblioteca Histórica Cubana y Americana \"Francisco González del Valle\"",
 	"sequences": [
 		{
-			"@id": "http://aba01f52-de7f-44ba-b6ed-ca3ee54d27cd",
+			"@id": "http://0c2cc4f7-1488-4088-bf94-813fe580696c",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,297 +24,552 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://1add158d-cef8-45a8-b728-2a19e986c320",
+					"@id": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7",
 					"@type": "sc:Canvas",
-					"label": "El Capitolio de La Habana y el Teatro Nacional",
-					"height": 798,
-					"width": 2258,
+					"label": "Empty canvas",
+					"height": 4226,
+					"width": 2647,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e7439e45-5da5-4398-8c12-86f740ad4d8e",
+							"@id": "http://0ff117b0-dd4a-4835-a779-1f5ba4deaac4",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000112.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000112.jpg",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg",
 									"profile": "level2"
 								},
-								"height": 798,
-								"width": 2258
+								"height": 4226,
+								"width": 2647
 							},
-							"on": "http://1add158d-cef8-45a8-b728-2a19e986c320"
-						}
-					],
-					"related": "",
-					"metadata": [
-						{
-							"label": "description",
-							"value": "La imagen muestra los alrededores del Capitolio con el público que asistió a presenciar la toma de posesión a la Presidencia de la República del General Gerardo Machado y Morales, el 20 de mayo de 1929. El negativo original se encuentra en el Fondo MICONS NV.128, No. de Registro de Secretaria de Obras Públicas: 5424 y 9044"
-						}
-					]
-				},
-				{
-					"@id": "http://92f36d45-8547-4a10-94f5-82c0a5540b7c",
-					"@type": "sc:Canvas",
-					"label": "Capitol. Havana",
-					"height": 2172,
-					"width": 3372,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://dce3dfe9-fe13-4caa-a929-c0f3ee431762",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/chc0359/4304/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/chc0359/4304",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json"
-									]
-								},
-								"height": 2172,
-								"width": 3372
-							},
-							"on": "http://92f36d45-8547-4a10-94f5-82c0a5540b7c"
-						}
-					],
-					"related": "",
-					"metadata": [
-						{
-							"label": "format",
-							"value": "Positivo\nPanorámica\nOriginal\nFoto Digital\nB/N\nHorizontal"
-						},
-						{
-							"label": "date",
-							"value": "1951-06-19\n"
-						}
-					]
-				},
-				{
-					"@id": "http://fe3ba6a0-6bf0-4c87-a430-c0fa4c6e4ec1",
-					"@type": "sc:Canvas",
-					"label": "El Capitolio en la década de 1940",
-					"height": 2446,
-					"width": 3649,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5d477d29-5601-49ab-8d18-198ce63c50cf",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9834/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9834",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json"
-									]
-								},
-								"height": 2446,
-								"width": 3649
-							},
-							"on": "http://fe3ba6a0-6bf0-4c87-a430-c0fa4c6e4ec1"
+							"on": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://05fdb67b-f37a-43b7-9b79-7efe5318ca0d",
+					"@id": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1",
 					"@type": "sc:Canvas",
-					"label": "Fidel Castro y Camilo Cienfuegos con el Capitolio al fondo",
-					"height": 2329,
-					"width": 3010,
+					"label": "Empty canvas",
+					"height": 4292,
+					"width": 2717,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a1ce074a-3db1-4a7f-8d67-35fd1f7dfd0e",
+							"@id": "http://f59f5f3e-ae97-46d7-951c-55cbc30d64b6",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10588/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10588",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json"
-									]
-								},
-								"height": 2329,
-								"width": 3010
-							},
-							"on": "http://05fdb67b-f37a-43b7-9b79-7efe5318ca0d"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://440e24ba-e5f0-4312-a89d-8c87b0235174",
-					"@type": "sc:Canvas",
-					"label": "El Capitolio iluminado durante su inauguración",
-					"height": 4990,
-					"width": 6188,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://219a0901-ef21-4dcc-a50a-15bbef418024",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9955/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/9955",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json"
-									]
-								},
-								"height": 4990,
-								"width": 6188
-							},
-							"on": "http://440e24ba-e5f0-4312-a89d-8c87b0235174"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://84e7ce7e-6c46-4b83-89d5-09d879e1618e",
-					"@type": "sc:Canvas",
-					"label": "Grasser, Franz: Reisefotos Kuba, 1937/1939. Bauwerk: Kapitol (Capitolio). Beschreibung: Reisefotos Kuba. Havanna. Kapitol (1926; E. R. Piedra)",
-					"height": 1079,
-					"width": 1600,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://98b40573-36ba-42b1-a831-33ee9401079b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://images.iiif.arthistoricum.net/iiif/2/proxy%2F67%2F67-b2FpOmRldXRzY2hlZm90b3RoZWsuZGU6YTg0NTA6Om9ianw4OTAwMTc0OHxkZl9oYXVwdGthdGFsb2dfMDY3MDE3Mw.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://images.iiif.arthistoricum.net/iiif/2/proxy%2F67%2F67-b2FpOmRldXRzY2hlZm90b3RoZWsuZGU6YTg0NTA6Om9ianw4OTAwMTc0OHxkZl9oYXVwdGthdGFsb2dfMDY3MDE3Mw.jpg",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 1726400,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
-								"height": 1079,
-								"width": 1600
-							},
-							"on": "http://84e7ce7e-6c46-4b83-89d5-09d879e1618e"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://ff0fb457-1d65-4c43-9db0-082e199dfd4d",
-					"@type": "sc:Canvas",
-					"label": "Construction of the Capitol building in Havana, Cuba\n",
-					"height": 4573,
-					"width": 5870,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f7f6e5bc-1c97-455b-a4a5-c714dfc1f63e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10701/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm17191.contentdm.oclc.org/digital/iiif/cubanphotos/10701",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json"
-									]
-								},
-								"height": 4573,
-								"width": 5870
-							},
-							"on": "http://ff0fb457-1d65-4c43-9db0-082e199dfd4d"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://8a95b92f-cf87-4f7a-afdd-69e6f4cd6b1f",
-					"@type": "sc:Canvas",
-					"label": "VII Congreso Internacional de Pediatría. Foto de los participantes frente al Capitolio Nacional 1953",
-					"height": 2530,
-					"width": 9876,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3141d8bc-dc0e-4664-b95b-abffe759abbb",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000270.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_cp_000000270.jpg",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg",
 									"profile": "level2"
 								},
-								"height": 2530,
-								"width": 9876
+								"height": 4292,
+								"width": 2717
 							},
-							"on": "http://8a95b92f-cf87-4f7a-afdd-69e6f4cd6b1f"
+							"on": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://42dbf689-4ac8-4427-ac69-67a48015c252",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4226,
+					"width": 2831,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c934f52f-5beb-426c-be10-26d28f214b99",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg",
+									"profile": "level2"
+								},
+								"height": 4226,
+								"width": 2831
+							},
+							"on": "http://42dbf689-4ac8-4427-ac69-67a48015c252"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4292,
+					"width": 2747,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b432e43-e8ac-4c6d-8c04-20b1b402361d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg",
+									"profile": "level2"
+								},
+								"height": 4292,
+								"width": 2747
+							},
+							"on": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b5b9dedb-2020-4329-8998-ba40d1796cdf",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4292,
+					"width": 2790,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1440e09f-e906-44b3-9eab-bd180d34e5b6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg",
+									"profile": "level2"
+								},
+								"height": 4292,
+								"width": 2790
+							},
+							"on": "http://b5b9dedb-2020-4329-8998-ba40d1796cdf"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://acd20b59-b7bf-4fbc-9c2a-b8540026da57",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4283,
+					"width": 2770,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://80a183f8-6e33-4ab8-b13c-12100333a13a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg",
+									"profile": "level2"
+								},
+								"height": 4283,
+								"width": 2770
+							},
+							"on": "http://acd20b59-b7bf-4fbc-9c2a-b8540026da57"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fce94ec1-7b1f-4673-923b-5235bec7f2cb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4264,
+					"width": 2724,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://77e12e10-4010-4aa5-a9c9-c28fba9aaf7d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg",
+									"profile": "level2"
+								},
+								"height": 4264,
+								"width": 2724
+							},
+							"on": "http://fce94ec1-7b1f-4673-923b-5235bec7f2cb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7f57be0d-7b1c-4193-adaf-9c0d75513b91",
+					"@type": "sc:Canvas",
+					"label": "Víctor Manuel Rey de Italia",
+					"height": 4311,
+					"width": 2789,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ed000756-df8f-4f50-b8c8-933e7b7d272c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009343.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009343.jpg",
+									"profile": "level2"
+								},
+								"height": 4311,
+								"width": 2789
+							},
+							"on": "http://7f57be0d-7b1c-4193-adaf-9c0d75513b91"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4311,
+					"width": 2883,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5ed93107-afa2-4a39-bbd4-34cd828a942f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg",
+									"profile": "level2"
+								},
+								"height": 4311,
+								"width": 2883
+							},
+							"on": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://27642a94-ab71-4220-8fd6-05512e9d9f22",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4349,
+					"width": 2770,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d19283fe-bf0c-4575-9b2b-c60fdd3b20f9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg",
+									"profile": "level2"
+								},
+								"height": 4349,
+								"width": 2770
+							},
+							"on": "http://27642a94-ab71-4220-8fd6-05512e9d9f22"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://dc6274b4-ff26-4ec0-97e7-9903a6c213a5",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4340,
+					"width": 2770,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0e207401-0a59-4f04-99cd-b120ef7de587",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg",
+									"profile": "level2"
+								},
+								"height": 4340,
+								"width": 2770
+							},
+							"on": "http://dc6274b4-ff26-4ec0-97e7-9903a6c213a5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ea24e6a5-87bb-41f0-af78-e17fa19448a2",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4359,
+					"width": 2817,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a5a02cc6-560f-42a3-b8cc-7e71f916582a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg",
+									"profile": "level2"
+								},
+								"height": 4359,
+								"width": 2817
+							},
+							"on": "http://ea24e6a5-87bb-41f0-af78-e17fa19448a2"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4303,
+					"width": 2831,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fb44a4f1-c8fb-4d96-b55f-d7dc3d17f690",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg",
+									"profile": "level2"
+								},
+								"height": 4303,
+								"width": 2831
+							},
+							"on": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fdeee884-0701-4802-8071-c439ca39ffea",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4294,
+					"width": 2749,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://66c25503-6b52-4a49-8b4e-ce18f4a35b65",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg",
+									"profile": "level2"
+								},
+								"height": 4294,
+								"width": 2749
+							},
+							"on": "http://fdeee884-0701-4802-8071-c439ca39ffea"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4311,
+					"width": 2701,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0f8be9ae-dd5c-4d5e-8914-972ab1b7d45f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg",
+									"profile": "level2"
+								},
+								"height": 4311,
+								"width": 2701
+							},
+							"on": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4293,
+					"width": 2755,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6d58c807-d154-49a6-9b07-32e9020277b6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg",
+									"profile": "level2"
+								},
+								"height": 4293,
+								"width": 2755
+							},
+							"on": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6b5c2053-674e-4f6e-8c66-02e2c2216ffc",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4293,
+					"width": 2820,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0a2a3c02-5667-4023-ae30-30236387b7f7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg",
+									"profile": "level2"
+								},
+								"height": 4293,
+								"width": 2820
+							},
+							"on": "http://6b5c2053-674e-4f6e-8c66-02e2c2216ffc"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://db411c8c-234c-40d5-8fdd-6f4b02b9fafb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4370,
+					"width": 2723,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c58d2304-e208-42d4-b5fe-3cea1678d88b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg",
+									"profile": "level2"
+								},
+								"height": 4370,
+								"width": 2723
+							},
+							"on": "http://db411c8c-234c-40d5-8fdd-6f4b02b9fafb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 4317,
+					"width": 5556,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e7c653c3-1d98-4a28-bcad-00975bd2fb80",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg",
+									"profile": "level2"
+								},
+								"height": 4317,
+								"width": 5556
+							},
+							"on": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f"
 						}
 					],
 					"related": ""
@@ -322,5 +577,8 @@
 			]
 		}
 	],
-	"structures": []
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f"
+	}
 }
