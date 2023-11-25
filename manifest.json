@@ -24,19 +24,48 @@
 			],
 			"canvases": [
 				{
+					"@id": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f",
+					"@type": "sc:Canvas",
+					"label": "Figuras Mundiales: Jefes Aliados",
+					"height": 4317,
+					"width": 5556,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e7c653c3-1d98-4a28-bcad-00975bd2fb80",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg/full/pct:100/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg",
+									"profile": "level2"
+								},
+								"height": 4317,
+								"width": 5556
+							},
+							"on": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f"
+						}
+					],
+					"related": ""
+				},
+				{
 					"@id": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Ignacio Juan Paderewski: Eminente músico y político de Polonia",
 					"height": 4226,
 					"width": 2647,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0ff117b0-dd4a-4835-a779-1f5ba4deaac4",
+							"@id": "http://470f0728-68a0-4443-8e37-db65f8921cb2",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -55,7 +84,7 @@
 				{
 					"@id": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El General Núñez",
 					"height": 4292,
 					"width": 2717,
 					"images": [
@@ -84,17 +113,17 @@
 				{
 					"@id": "http://42dbf689-4ac8-4427-ac69-67a48015c252",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Antonio Maura: Famoso político español",
 					"height": 4226,
 					"width": 2831,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c934f52f-5beb-426c-be10-26d28f214b99",
+							"@id": "http://891f33a0-47a0-4114-9414-2b6f56759bf1",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -113,7 +142,7 @@
 				{
 					"@id": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El filósofo cubano Varona",
 					"height": 4292,
 					"width": 2747,
 					"images": [
@@ -142,17 +171,17 @@
 				{
 					"@id": "http://b5b9dedb-2020-4329-8998-ba40d1796cdf",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El Rey Alberto I de Bélgica",
 					"height": 4292,
 					"width": 2790,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1440e09f-e906-44b3-9eab-bd180d34e5b6",
+							"@id": "http://9ecd3b88-914b-47c1-bd88-1e28bd999cf5",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -171,17 +200,17 @@
 				{
 					"@id": "http://acd20b59-b7bf-4fbc-9c2a-b8540026da57",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El General Joffre",
 					"height": 4283,
 					"width": 2770,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://80a183f8-6e33-4ab8-b13c-12100333a13a",
+							"@id": "http://c62d174c-16d8-45f3-b2c1-3abdf7d6cc4f",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -200,17 +229,17 @@
 				{
 					"@id": "http://fce94ec1-7b1f-4673-923b-5235bec7f2cb",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El Mariscal Ferdinand Foch",
 					"height": 4264,
 					"width": 2724,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://77e12e10-4010-4aa5-a9c9-c28fba9aaf7d",
+							"@id": "http://464f783d-a7d7-4556-bce4-f12f56541c4b",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -258,17 +287,17 @@
 				{
 					"@id": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El expresidente Gómez",
 					"height": 4311,
 					"width": 2883,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5ed93107-afa2-4a39-bbd4-34cd828a942f",
+							"@id": "http://6033815a-9e13-4e4a-a9d2-2bffbfba6579",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -287,17 +316,17 @@
 				{
 					"@id": "http://27642a94-ab71-4220-8fd6-05512e9d9f22",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El expresidente Taft",
 					"height": 4349,
 					"width": 2770,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d19283fe-bf0c-4575-9b2b-c60fdd3b20f9",
+							"@id": "http://da8ae7b4-b3cc-4f86-82a0-73e37ca22acd",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -316,17 +345,17 @@
 				{
 					"@id": "http://dc6274b4-ff26-4ec0-97e7-9903a6c213a5",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "El presidente Wilson",
 					"height": 4340,
 					"width": 2770,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0e207401-0a59-4f04-99cd-b120ef7de587",
+							"@id": "http://6c5194db-bda1-4e38-9c73-0177e2c1cdcf",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -345,17 +374,17 @@
 				{
 					"@id": "http://ea24e6a5-87bb-41f0-af78-e17fa19448a2",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Woodrow Wilson: Presidente de los Estados Unidos de América, miembro del Consejo de los Cuatro",
 					"height": 4359,
 					"width": 2817,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a5a02cc6-560f-42a3-b8cc-7e71f916582a",
+							"@id": "http://f2e45303-8743-4d79-aa30-93efbdad6ce9",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -374,17 +403,17 @@
 				{
 					"@id": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Dr. Antonio Sánchez de Bustamante: Nuestro delegado en las Conferencias de la Paz,  Presidente de la Academia de Artes y Letras",
 					"height": 4303,
 					"width": 2831,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://fb44a4f1-c8fb-4d96-b55f-d7dc3d17f690",
+							"@id": "http://f85c5933-37dd-4f82-90e8-bccc263340f7",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -403,17 +432,17 @@
 				{
 					"@id": "http://fdeee884-0701-4802-8071-c439ca39ffea",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Jorge V: Rey de Gran Bretaña e Irlanda, Emperador de las Indias. El sol nunca se pone en sus dominios",
 					"height": 4294,
 					"width": 2749,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://66c25503-6b52-4a49-8b4e-ce18f4a35b65",
+							"@id": "http://fd0faf3b-2dd8-4d19-a41f-355eac81e46f",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -432,17 +461,17 @@
 				{
 					"@id": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Mayor General Mario García Menocal: El presidente de la Repúbica que inicia este mes el séptimo año de su mandato",
 					"height": 4311,
 					"width": 2701,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0f8be9ae-dd5c-4d5e-8914-972ab1b7d45f",
+							"@id": "http://3e063e77-2e47-42c7-9335-eb7ddc64a54b",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -461,17 +490,17 @@
 				{
 					"@id": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Georges Clemanceau: Primer Ministro del gabinete de Poincaré (Presidente de Francia), que preside las Conferencias de la Paz, en la histórica ciudad de Versalles",
 					"height": 4293,
 					"width": 2755,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6d58c807-d154-49a6-9b07-32e9020277b6",
+							"@id": "http://f5f6b444-0a90-4fa4-bedc-4eb12fef2432",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -490,17 +519,17 @@
 				{
 					"@id": "http://6b5c2053-674e-4f6e-8c66-02e2c2216ffc",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Dr. Francisco Domínguez Roldán: Secretario de instrucción Pública, el departamento del gobierno que se ocupa de las escuelas y de la enseñanza de los niños",
 					"height": 4293,
 					"width": 2820,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0a2a3c02-5667-4023-ae30-30236387b7f7",
+							"@id": "http://7304bcd1-cb09-4ffc-b68d-6917b85d7bb5",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -519,17 +548,17 @@
 				{
 					"@id": "http://db411c8c-234c-40d5-8fdd-6f4b02b9fafb",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "Alfonso XIII",
 					"height": 4370,
 					"width": 2723,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c58d2304-e208-42d4-b5fe-3cea1678d88b",
+							"@id": "http://dee6b2a9-9c6f-465e-a1af-ac5a801c7228",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -541,35 +570,6 @@
 								"width": 2723
 							},
 							"on": "http://db411c8c-234c-40d5-8fdd-6f4b02b9fafb"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f",
-					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 4317,
-					"width": 5556,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e7c653c3-1d98-4a28-bcad-00975bd2fb80",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg/full/pct:100/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg",
-									"profile": "level2"
-								},
-								"height": 4317,
-								"width": 5556
-							},
-							"on": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f"
 						}
 					],
 					"related": ""
