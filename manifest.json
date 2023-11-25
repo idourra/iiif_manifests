@@ -53,117 +53,30 @@
 					"related": ""
 				},
 				{
-					"@id": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7",
+					"@id": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f",
 					"@type": "sc:Canvas",
-					"label": "Ignacio Juan Paderewski: Eminente músico y político de Polonia",
-					"height": 4226,
-					"width": 2647,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://470f0728-68a0-4443-8e37-db65f8921cb2",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg",
-									"profile": "level2"
-								},
-								"height": 4226,
-								"width": 2647
-							},
-							"on": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1",
-					"@type": "sc:Canvas",
-					"label": "El General Núñez",
-					"height": 4292,
-					"width": 2717,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f59f5f3e-ae97-46d7-951c-55cbc30d64b6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg/full/pct:100/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg",
-									"profile": "level2"
-								},
-								"height": 4292,
-								"width": 2717
-							},
-							"on": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://42dbf689-4ac8-4427-ac69-67a48015c252",
-					"@type": "sc:Canvas",
-					"label": "Antonio Maura: Famoso político español",
-					"height": 4226,
+					"label": "Dr. Antonio Sánchez de Bustamante: Nuestro delegado en las Conferencias de la Paz,  Presidente de la Academia de Artes y Letras",
+					"height": 4303,
 					"width": 2831,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://891f33a0-47a0-4114-9414-2b6f56759bf1",
+							"@id": "http://f85c5933-37dd-4f82-90e8-bccc263340f7",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg",
 									"profile": "level2"
 								},
-								"height": 4226,
+								"height": 4303,
 								"width": 2831
 							},
-							"on": "http://42dbf689-4ac8-4427-ac69-67a48015c252"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb",
-					"@type": "sc:Canvas",
-					"label": "El filósofo cubano Varona",
-					"height": 4292,
-					"width": 2747,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://8b432e43-e8ac-4c6d-8c04-20b1b402361d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg/full/pct:100/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg",
-									"profile": "level2"
-								},
-								"height": 4292,
-								"width": 2747
-							},
-							"on": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb"
+							"on": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f"
 						}
 					],
 					"related": ""
@@ -285,35 +198,6 @@
 					"related": ""
 				},
 				{
-					"@id": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a",
-					"@type": "sc:Canvas",
-					"label": "El expresidente Gómez",
-					"height": 4311,
-					"width": 2883,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6033815a-9e13-4e4a-a9d2-2bffbfba6579",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg",
-									"profile": "level2"
-								},
-								"height": 4311,
-								"width": 2883
-							},
-							"on": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a"
-						}
-					],
-					"related": ""
-				},
-				{
 					"@id": "http://27642a94-ab71-4220-8fd6-05512e9d9f22",
 					"@type": "sc:Canvas",
 					"label": "El expresidente Taft",
@@ -338,6 +222,64 @@
 								"width": 2770
 							},
 							"on": "http://27642a94-ab71-4220-8fd6-05512e9d9f22"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fdeee884-0701-4802-8071-c439ca39ffea",
+					"@type": "sc:Canvas",
+					"label": "Jorge V: Rey de Gran Bretaña e Irlanda, Emperador de las Indias. El sol nunca se pone en sus dominios",
+					"height": 4294,
+					"width": 2749,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fd0faf3b-2dd8-4d19-a41f-355eac81e46f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg",
+									"profile": "level2"
+								},
+								"height": 4294,
+								"width": 2749
+							},
+							"on": "http://fdeee884-0701-4802-8071-c439ca39ffea"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b",
+					"@type": "sc:Canvas",
+					"label": "Georges Clemanceau: Primer Ministro del gabinete de Poincaré (Presidente de Francia), que preside las Conferencias de la Paz, en la histórica ciudad de Versalles",
+					"height": 4293,
+					"width": 2755,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f5f6b444-0a90-4fa4-bedc-4eb12fef2432",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg",
+									"profile": "level2"
+								},
+								"height": 4293,
+								"width": 2755
+							},
+							"on": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b"
 						}
 					],
 					"related": ""
@@ -401,117 +343,30 @@
 					"related": ""
 				},
 				{
-					"@id": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f",
+					"@id": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7",
 					"@type": "sc:Canvas",
-					"label": "Dr. Antonio Sánchez de Bustamante: Nuestro delegado en las Conferencias de la Paz,  Presidente de la Academia de Artes y Letras",
-					"height": 4303,
-					"width": 2831,
+					"label": "Ignacio Juan Paderewski: Eminente músico y político de Polonia",
+					"height": 4226,
+					"width": 2647,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f85c5933-37dd-4f82-90e8-bccc263340f7",
+							"@id": "http://470f0728-68a0-4443-8e37-db65f8921cb2",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg",
 									"profile": "level2"
 								},
-								"height": 4303,
-								"width": 2831
+								"height": 4226,
+								"width": 2647
 							},
-							"on": "http://88b22ff7-b545-4c88-a36f-55b6995d7b3f"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://fdeee884-0701-4802-8071-c439ca39ffea",
-					"@type": "sc:Canvas",
-					"label": "Jorge V: Rey de Gran Bretaña e Irlanda, Emperador de las Indias. El sol nunca se pone en sus dominios",
-					"height": 4294,
-					"width": 2749,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://fd0faf3b-2dd8-4d19-a41f-355eac81e46f",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg",
-									"profile": "level2"
-								},
-								"height": 4294,
-								"width": 2749
-							},
-							"on": "http://fdeee884-0701-4802-8071-c439ca39ffea"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed",
-					"@type": "sc:Canvas",
-					"label": "Mayor General Mario García Menocal: El presidente de la Repúbica que inicia este mes el séptimo año de su mandato",
-					"height": 4311,
-					"width": 2701,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3e063e77-2e47-42c7-9335-eb7ddc64a54b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg",
-									"profile": "level2"
-								},
-								"height": 4311,
-								"width": 2701
-							},
-							"on": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed"
-						}
-					],
-					"related": ""
-				},
-				{
-					"@id": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b",
-					"@type": "sc:Canvas",
-					"label": "Georges Clemanceau: Primer Ministro del gabinete de Poincaré (Presidente de Francia), que preside las Conferencias de la Paz, en la histórica ciudad de Versalles",
-					"height": 4293,
-					"width": 2755,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f5f6b444-0a90-4fa4-bedc-4eb12fef2432",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg",
-									"profile": "level2"
-								},
-								"height": 4293,
-								"width": 2755
-							},
-							"on": "http://cc1c9725-0e9a-4254-b833-04ad2abaca0b"
+							"on": "http://f0900fb1-a336-4f36-bbf2-723378cfeef7"
 						}
 					],
 					"related": ""
@@ -573,6 +428,150 @@
 						}
 					],
 					"related": ""
+				},
+				{
+					"@id": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed",
+					"@type": "sc:Canvas",
+					"label": "Mayor General Mario García Menocal: El presidente de la Repúbica que inicia este mes el séptimo año de su mandato",
+					"height": 4311,
+					"width": 2701,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3e063e77-2e47-42c7-9335-eb7ddc64a54b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg",
+									"profile": "level2"
+								},
+								"height": 4311,
+								"width": 2701
+							},
+							"on": "http://fd670eb4-6eaa-42ed-9565-8482726b64ed"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1",
+					"@type": "sc:Canvas",
+					"label": "El General Núñez",
+					"height": 4292,
+					"width": 2717,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f59f5f3e-ae97-46d7-951c-55cbc30d64b6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg/full/pct:100/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg",
+									"profile": "level2"
+								},
+								"height": 4292,
+								"width": 2717
+							},
+							"on": "http://6819e787-de9c-4d2d-b818-ee3b33440ed1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://42dbf689-4ac8-4427-ac69-67a48015c252",
+					"@type": "sc:Canvas",
+					"label": "Antonio Maura: Famoso político español",
+					"height": 4226,
+					"width": 2831,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://891f33a0-47a0-4114-9414-2b6f56759bf1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg",
+									"profile": "level2"
+								},
+								"height": 4226,
+								"width": 2831
+							},
+							"on": "http://42dbf689-4ac8-4427-ac69-67a48015c252"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb",
+					"@type": "sc:Canvas",
+					"label": "El filósofo cubano Varona",
+					"height": 4292,
+					"width": 2747,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b432e43-e8ac-4c6d-8c04-20b1b402361d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg/full/pct:100/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg",
+									"profile": "level2"
+								},
+								"height": 4292,
+								"width": 2747
+							},
+							"on": "http://4a51abb6-5bd9-4e55-bae1-05701ca216fb"
+						}
+					]
+				},
+				{
+					"@id": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a",
+					"@type": "sc:Canvas",
+					"label": "El expresidente Gómez",
+					"height": 4311,
+					"width": 2883,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6033815a-9e13-4e4a-a9d2-2bffbfba6579",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg",
+									"profile": "level2"
+								},
+								"height": 4311,
+								"width": 2883
+							},
+							"on": "http://2d25c711-c260-46aa-a7b6-751bbd3b8f5a"
+						}
+					],
+					"related": ""
 				}
 			]
 		}
@@ -580,5 +579,8 @@
 	"structures": [],
 	"thumbnail": {
 		"@id": "http://4685bb3e-0c76-4e1f-90e2-005ea372915f"
+	},
+	"related": {
+		"@id": "https://repositoriodigital.ohc.cu/s/repositoriodigital/item-set/23162"
 	}
 }
