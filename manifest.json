@@ -36,7 +36,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009362.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -65,7 +65,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009333.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -94,7 +94,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009349.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -123,7 +123,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009347.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -152,7 +152,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009345.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -181,7 +181,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009343.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009343.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -210,7 +210,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009339.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -239,7 +239,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009331.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -268,7 +268,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009327.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -297,7 +297,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009337.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -326,7 +326,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009335.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -355,7 +355,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009355.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -384,7 +384,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009325.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -413,7 +413,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009323.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -442,7 +442,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009329.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -471,7 +471,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009351.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -500,7 +500,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009357.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -529,7 +529,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg/full/pct:100/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009353.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
@@ -557,7 +557,7 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/full/0/default.jpg",
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcbh_ch_000009341.jpg/full/pct:30/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
