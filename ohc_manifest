@@ -1,0 +1,149 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://12368620-da98-476b-9bfa-2706452b1b6f",
+	"@type": "sc:Manifest",
+	"label": "Coleccion fotos leal",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://5df3895e-eaad-45e6-8ed4-b5d0818a5f80",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://c8bc7f7e-3918-4214-95f6-29019b11c623",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1388,
+					"width": 2094,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5d6407b7-24dc-4513-b388-a0191e772546",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000997.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000997.jpg",
+									"profile": "level2"
+								},
+								"height": 1388,
+								"width": 2094
+							},
+							"on": "http://c8bc7f7e-3918-4214-95f6-29019b11c623"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f61bc00b-08bf-4192-96b6-05327174265a",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1450,
+					"width": 2094,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://68b8555b-e2c1-4d02-bf09-f2eaf7c3f37a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000995.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000995.jpg",
+									"profile": "level2"
+								},
+								"height": 1450,
+								"width": 2094
+							},
+							"on": "http://f61bc00b-08bf-4192-96b6-05327174265a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fea19baf-9c82-4079-8f19-4135c6706aeb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2113,
+					"width": 1394,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9b6941f1-0ec9-4929-9ad3-631acfbd4c43",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000993.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000993.jpg",
+									"profile": "level2"
+								},
+								"height": 2113,
+								"width": 1394
+							},
+							"on": "http://fea19baf-9c82-4079-8f19-4135c6706aeb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ceddb27e-ebda-4677-9f03-43a5095d0242",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2113,
+					"width": 1394,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e34b1c45-1924-4055-82ad-10f07e4763cc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000993.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://iiif.ohc.cu/iiif/3/ohcfh_els_000000993.jpg",
+									"profile": "level2"
+								},
+								"height": 2113,
+								"width": 1394
+							},
+							"on": "http://ceddb27e-ebda-4677-9f03-43a5095d0242"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://f61bc00b-08bf-4192-96b6-05327174265a"
+	}
+}
